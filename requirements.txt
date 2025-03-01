@@ -1,0 +1,15 @@
+ultralytics 
+opencv-python
+langchain
+python-dotenv
+whisper
+PyAudio
+wave
+SpeechRecognition
+gradio
+huggingface_hub
+transformers
+langchain-groq
+openai-whisper
+pyttsx3
+streamlit
