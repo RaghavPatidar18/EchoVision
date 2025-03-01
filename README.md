@@ -1,4 +1,4 @@
-# whispering-pixels
+# EchoVision
 Giving LLM the ability to see and converse with the user
 
 # To Use
